@@ -13,7 +13,3 @@ Technologies Used
 -JavaScript
 
 
-<!---
-abhishek9189/abhishek9189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
