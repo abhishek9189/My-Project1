@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @abhishek9189
-- 👀 I’m interested in DSA(problem solving)
-- 🌱 I’m currently learning FullStack Development
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-hi
+
+
+
+My First Responsive Website
+Welcome to my first responsive website! This project showcases my skills in HTML, CSS, and JavaScript, and demonstrates how to create a visually appealing and functional web application that adjusts seamlessly across different devices.
+
+Features
+* Responsive Design: Adapts to various screen sizes, providing an optimal viewing experience on desktops, tablets, and smartphones.
+* HTML Structure: Clean and semantic markup for better accessibility and SEO.
+* CSS Styling: Stylish layouts and designs using modern CSS techniques.
+* JavaScript Interactivity: Dynamic elements that enhance user engagement.
+
+Technologies Used
+-HTML
+-CSS
+-JavaScript
+
+
 <!---
 abhishek9189/abhishek9189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
