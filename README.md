@@ -1,6 +1,3 @@
-
-
-
 My First Responsive Website
 Welcome to my first responsive website! This project showcases my skills in HTML, CSS, and JavaScript, and demonstrates how to create a visually appealing and functional web application that adjusts seamlessly across different devices.
 
